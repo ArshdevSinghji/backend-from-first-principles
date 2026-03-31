@@ -1,4 +1,4 @@
-# 5. Understanding HTTP for Backend Engineers — Where It All Starts
+# Understanding HTTP for Backend Engineers — Where It All Starts
 
 ## 1. Core Principles of HTTP
 
